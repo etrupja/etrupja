@@ -2,7 +2,7 @@
 
 ## Featured Course: **Build Your Own Social Media Platform with ASP.NET**
 
-[![Course Image](URL_TO_COURSE_IMAGE_HERE)](COURSE_LINK_HERE)
+[![Course Image](github-dnh-course.jpg)](COURSE_LINK_HERE)
 
 **Are you ready to dive deep into the world of web development with ASP.NET?** Here's your chance to learn how to build a comprehensive social media application from the ground up!
 

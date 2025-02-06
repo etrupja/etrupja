@@ -42,16 +42,14 @@ You'll not only have a fully operational social media platform but also the expe
 
 ### Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://al.linkedin.com/in/ervistrupja)
-- **Twitter:** [Your Twitter Handle](https://x.com/ervis_trupja)
+- **LinkedIn:** [Ervis Trupja](https://al.linkedin.com/in/ervistrupja)
+- **Twitter:** [@ervis_trupja](https://x.com/ervis_trupja)
 - **Email:** [Drop me a line](mailto:ervistrupja@outlook.com)
 
-### Other Courses
+### Check out my other courses
 
-Check out some of my other work:
-
-- [Udemy](https://www.udemy.com/user/ervis-trupja/?srsltid=AfmBOorI_U2R5gIAzhCa9e-x3frMeZUHC3FKMZEvPDB8SDsv_m7LS1uk)
-- [LinkedIn Learning](https://linkedin.com/in/ervistrupja?trk=learning-course_instructor&upsellOrderOrigin=default_guest_learning)
-- [Pluralsight](https://www.pluralsight.com/author/ervis-trupja)
+- **LinkedIn Learning:** (https://www.udemy.com/user/ervis-trupja/?srsltid=AfmBOorI_U2R5gIAzhCa9e-x3frMeZUHC3FKMZEvPDB8SDsv_m7LS1uk)
+- **Udemy:** (https://linkedin.com/in/ervistrupja?trk=learning-course_instructor&upsellOrderOrigin=default_guest_learning)
+- **Pluralsight:** (https://www.pluralsight.com/author/ervis-trupja)
 
 Feel free to explore, contribute, or just say hello!

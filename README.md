@@ -48,8 +48,8 @@ You'll not only have a fully operational social media platform but also the expe
 
 ### Check out my other courses
 
-- **LinkedIn Learning:** (https://www.udemy.com/user/ervis-trupja/?srsltid=AfmBOorI_U2R5gIAzhCa9e-x3frMeZUHC3FKMZEvPDB8SDsv_m7LS1uk)
-- **Udemy:** (https://linkedin.com/in/ervistrupja?trk=learning-course_instructor&upsellOrderOrigin=default_guest_learning)
+- **LinkedIn Learning:** (https://www.udemy.com/user/ervis-trupja)
+- **Udemy:** (https://linkedin.com/in/ervistrupja)
 - **Pluralsight:** (https://www.pluralsight.com/author/ervis-trupja)
 
 Feel free to explore, contribute, or just say hello!

@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile!
-
 ## Featured Course: **Build Your Own Social Media Platform with ASP.NET**
+
+What you will learn? https://youtu.be/GdDj3ERolgo
 
 [![Course Image](github-dnh-course.jpg)](https://shrtly.net/dnh)
 

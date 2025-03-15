@@ -1,6 +1,7 @@
 ## Featured Course: **Build Your Own Social Media Platform with ASP.NET**
 
 What you will learn? https://youtu.be/GdDj3ERolgo
+Star this repository: https://github.com/etrupja/CircleApp
 
 [![Course Image](github-dnh-course.jpg)](https://shrtly.net/dnh)
 

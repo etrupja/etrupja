@@ -13,6 +13,7 @@
   - **Stories, Posts, Likes, Shares:** Implement the backbone of any social media platform.
   - **Friend Management:** Develop systems for adding, canceling, ignoring, and approving friend requests.
   - **Trending Hashtags:** Create a dynamic section to showcase popular tags, keeping your app engaging and relevant.
+  - **Notifications:** Set up realtime notifications with SignalR and get notified for post likes, comments, favorites and friend requests and approvals.
 
 - **Front-End with Tailwind CSS:**
   - Learn to design a modern, responsive user interface using Tailwind CSS. Utilize its utility-first approach to speed up your development process.

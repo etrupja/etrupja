@@ -1,4 +1,4 @@
-## Featured Course: **Creating a Social Media App with C#, JS, ASP.NET and Azure**
+## Featured Course: **Creating a Social Media App with C#, JavaScript, ASP.NET and Azure**
 
 - **What you will learn?**  https://youtu.be/GdDj3ERolgo
 - **Star this repository** https://github.com/etrupja/CircleApp

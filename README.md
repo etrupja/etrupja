@@ -54,4 +54,8 @@ You'll not only have a fully operational social media platform but also the expe
 - **Udemy:** (https://linkedin.com/in/ervistrupja)
 - **Pluralsight:** (https://www.pluralsight.com/author/ervis-trupja)
 
+### Other
+
+- **Blog:** (https://www.dotnethow.net)
+
 Feel free to explore, contribute, or just say hello!

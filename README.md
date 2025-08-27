@@ -58,5 +58,6 @@ You'll not only have a fully operational social media platform but also the expe
 
 - **Blog:** (https://www.dotnethow.net)
 - **Shrtly:** [Shorten your URLs](https://shrtly.net)
+- **Browse Courses:** [DNH](https://dotnethow.thinkific.com)
 
 Feel free to explore, contribute, or just say hello!

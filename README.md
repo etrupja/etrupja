@@ -38,7 +38,7 @@ You'll not only have a fully operational social media platform but also the expe
 
 **Ready to build something amazing?** Dive into this course and start your journey from a blank Visual Studio project to a vibrant social media application!
 
-[Enroll Now](#) 
+[Enroll Now](https://www.udemy.com/course/build-social-media-app-with-aspnet-core/?referralCode=630997758823A77376D5) 
 
 ---
 

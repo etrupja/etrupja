@@ -3,7 +3,10 @@
 - **What you will learn?**  https://youtu.be/GdDj3ERolgo
 - **Star this repository** https://github.com/etrupja/CircleApp
 
-[![Course Image](github-dnh-course.jpg)](https://shrtly.net/dnh)
+[![Course Image](github-dnh-course.jpg)]
+
+<img src="github-dnh-course.jpg" alt="Course Image" width="400">
+
 
 **Are you ready to dive deep into the world of web development with ASP.NET?** Here's your chance to learn how to build a comprehensive social media application from the ground up!
 

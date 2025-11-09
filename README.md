@@ -52,6 +52,7 @@ You'll not only have a fully operational social media platform but also the expe
 
 ### Check out my other courses
 
+- **YouTube:** (https://www.youtube.com/@dotnethow)
 - **LinkedIn Learning:** (https://www.linkedin.com/learning/instructors/ervis-trupja)
 - **Udemy:** (https://linkedin.com/in/ervistrupja)
 - **Pluralsight:** (https://www.pluralsight.com/author/ervis-trupja)

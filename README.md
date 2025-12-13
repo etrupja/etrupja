@@ -1,6 +1,17 @@
 ## **100 C# Concepts in 100 Days**
 
-Welcome to the complete 100 C# Concepts in 100 Minutes course! This playlist is your fastest path to mastering C#. It is broken down into 100 quick, one-minute videos, each teaching you a single, essential concept. We start with the fundamentals and environment setup, then quickly move on to real-world applications. You will learn how to use C# to build web apps, cloud services, mobile games, and desktop software on any platform (Windows, macOS, or Linux). Start watching to master one new C# concept a minute!
+This playlist breaks down the entire C# language into 100 bite-sized videos. Each clip covers exactly one key concept in just 60 seconds, making it easy to learn without feeling overwhelmed.
+
+You will start with the absolute basics, like setting up your environment and understanding variables. From there, you will move quickly into Object-Oriented Programming, data structures, and essential tools like LINQ. Finally, you will tackle advanced topics including async programming, file management, and professional design patterns. This playlist is perfect for beginners who want a fast-paced introduction or experienced developers looking for a quick refresher. There is no fluff and no wasted time - just the code you need to know.
+
+**What you will learn:**
+- **Fundamentals:** Variables, loops, and decision-making.
+- **Object-Oriented Programming:** Classes, inheritance, and interfaces.
+- **Data Handling:** Collections, arrays, and dictionaries.
+- **Advanced Techniques:** LINQ, file operations, and async/await.
+- **Professional Skills:** Debugging, unit testing, and clean code practices.
+
+[![Install C# & .NET SDK in 1 Minute (VS Code Setup)](https://img.youtube.com/vi/0TNlCioDAZ8/0.jpg)](https://youtube.com/playlist?list=PL2Q8rFbm-4rtedayHej9mwufaLTfvu_Az&si=fzAAxz1D5MzN2_9O)
 
 [Watch the Playlist Here](https://youtube.com/playlist?list=PL2Q8rFbm-4rtedayHej9mwufaLTfvu_Az&si=fzAAxz1D5MzN2_9O)
 
@@ -48,4 +59,30 @@ You'll not only have a fully operational social media platform but also the expe
 
 **Ready to build something amazing?** Dive into this course and start your journey from a blank Visual Studio project to a vibrant social media application!
 
-[Enroll Now](
+[Enroll Now](https://www.udemy.com/course/build-social-media-app-with-aspnet-core/?referralCode=630997758823A77376D5)
+
+---
+
+### Connect with Me
+
+- **LinkedIn:** [Ervis Trupja](https://al.linkedin.com/in/ervistrupja)
+- **Twitter:** [@ervis_trupja](https://x.com/ervis_trupja)
+- **Email:** [Drop me a line](mailto:ervistrupja@outlook.com)
+
+### Check out my other courses
+
+- **YouTube:** (https://www.youtube.com/@dotnethow)
+- **LinkedIn Learning:** (https://www.linkedin.com/learning/instructors/ervis-trupja)
+- **Udemy:** (https://linkedin.com/in/ervistrupja)
+- **Pluralsight:** (https://www.pluralsight.com/author/ervis-trupja)
+
+### Other
+
+- **Blog:** (https://www.dotnethow.net)
+- **LinkZap:** [Shorten your URLs](https://linkzap.me)
+- **Browse Courses:** [DNH](https://dotnethow.thinkific.com)
+
+Feel free to explore, contribute, or just say hello!
+
+
+--------

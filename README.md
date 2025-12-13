@@ -80,7 +80,6 @@ You'll not only have a fully operational social media platform but also the expe
 
 - **Blog:** (https://www.dotnethow.net)
 - **LinkZap:** [Shorten your URLs](https://linkzap.me)
-- **Browse Courses:** [DNH](https://dotnethow.thinkific.com)
 
 Feel free to explore, contribute, or just say hello!
 

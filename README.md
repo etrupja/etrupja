@@ -1,6 +1,14 @@
+## **100 C# Concepts in 100 Days**
+
+Welcome to the complete 100 C# Concepts in 100 Minutes course! This playlist is your fastest path to mastering C#. It is broken down into 100 quick, one-minute videos, each teaching you a single, essential concept. We start with the fundamentals and environment setup, then quickly move on to real-world applications. You will learn how to use C# to build web apps, cloud services, mobile games, and desktop software on any platform (Windows, macOS, or Linux). Start watching to master one new C# concept a minute!
+
+[Watch the Playlist Here](https://youtube.com/playlist?list=PL2Q8rFbm-4rtedayHej9mwufaLTfvu_Az&si=fzAAxz1D5MzN2_9O)
+
+---
+
 ## **Creating a Social Media App with C#, JavaScript, ASP.NET and Azure**
 
-- **What you will learn?**  https://youtu.be/GdDj3ERolgo
+- **What you will learn?** https://youtu.be/GdDj3ERolgo
 - **Star this repository** https://github.com/etrupja/CircleApp
 
 
@@ -40,27 +48,4 @@ You'll not only have a fully operational social media platform but also the expe
 
 **Ready to build something amazing?** Dive into this course and start your journey from a blank Visual Studio project to a vibrant social media application!
 
-[Enroll Now](https://www.udemy.com/course/build-social-media-app-with-aspnet-core/?referralCode=630997758823A77376D5) 
-
----
-
-### Connect with Me
-
-- **LinkedIn:** [Ervis Trupja](https://al.linkedin.com/in/ervistrupja)
-- **Twitter:** [@ervis_trupja](https://x.com/ervis_trupja)
-- **Email:** [Drop me a line](mailto:ervistrupja@outlook.com)
-
-### Check out my other courses
-
-- **YouTube:** (https://www.youtube.com/@dotnethow)
-- **LinkedIn Learning:** (https://www.linkedin.com/learning/instructors/ervis-trupja)
-- **Udemy:** (https://linkedin.com/in/ervistrupja)
-- **Pluralsight:** (https://www.pluralsight.com/author/ervis-trupja)
-
-### Other
-
-- **Blog:** (https://www.dotnethow.net)
-- **LinkZap:** [Shorten your URLs](https://linkzap.me)
-- **Browse Courses:** [DNH](https://dotnethow.thinkific.com)
-
-Feel free to explore, contribute, or just say hello!
+[Enroll Now](

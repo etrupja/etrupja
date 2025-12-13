@@ -2,6 +2,8 @@
 
 This playlist breaks down the entire C# language into 100 bite-sized videos. Each clip covers exactly one key concept in just 60 seconds, making it easy to learn without feeling overwhelmed.
 
+[![Install C# & .NET SDK in 1 Minute (VS Code Setup)](https://img.youtube.com/vi/0TNlCioDAZ8/0.jpg)](https://youtube.com/playlist?list=PL2Q8rFbm-4rtedayHej9mwufaLTfvu_Az&si=fzAAxz1D5MzN2_9O)
+
 You will start with the absolute basics, like setting up your environment and understanding variables. From there, you will move quickly into Object-Oriented Programming, data structures, and essential tools like LINQ. Finally, you will tackle advanced topics including async programming, file management, and professional design patterns. This playlist is perfect for beginners who want a fast-paced introduction or experienced developers looking for a quick refresher. There is no fluff and no wasted time - just the code you need to know.
 
 **What you will learn:**
@@ -10,8 +12,6 @@ You will start with the absolute basics, like setting up your environment and un
 - **Data Handling:** Collections, arrays, and dictionaries.
 - **Advanced Techniques:** LINQ, file operations, and async/await.
 - **Professional Skills:** Debugging, unit testing, and clean code practices.
-
-[![Install C# & .NET SDK in 1 Minute (VS Code Setup)](https://img.youtube.com/vi/0TNlCioDAZ8/0.jpg)](https://youtube.com/playlist?list=PL2Q8rFbm-4rtedayHej9mwufaLTfvu_Az&si=fzAAxz1D5MzN2_9O)
 
 [Watch the Playlist Here](https://youtube.com/playlist?list=PL2Q8rFbm-4rtedayHej9mwufaLTfvu_Az&si=fzAAxz1D5MzN2_9O)
 

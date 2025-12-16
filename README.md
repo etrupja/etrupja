@@ -15,8 +15,3 @@
 
 - **Blog:** (https://www.dotnethow.net)
 - **LinkZap:** [Shorten your URLs](https://linkzap.me)
-
-Feel free to explore, contribute, or just say hello!
-
-
---------
